@@ -24,23 +24,6 @@ A real‑time chat application built with the MERN stack and Socket.IO. You can 
 - Seamless event broadcasting with Socket.IO  
 - Fully responsive UI on desktop and mobile
 
----
-## Demo
-
-https://fullstack-chat-app-dwxo.onrender.com/login
-
-## Installation
-
-### 1. Clone the repo
-
-```bash
-https://github.com/SarthakSP18/fullstack-chat-app.git
-cd fullstack-chat-app
-
-```bash
-  npm i
-  
-```
 **cd backend** 
 
 npm i
